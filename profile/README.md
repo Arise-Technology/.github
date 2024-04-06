@@ -31,6 +31,7 @@ Welcome to the overview of Arise Technology.
 <p> Phone: +55 27 999553448 </p>
 <p> Address: Sao Paulo - Brazil  </p>
 
+<h3 align="left">Social Media:</h3> 
 <p align="left">  
 <a href="https://www.linkedin.com/company/arisetechnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandocalenzani" height="30" width="40" /></a>
 <a href="https://fb.com/fernandocalenzani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fernandocalenzani" height="30" width="40" /></a>
