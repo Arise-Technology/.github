@@ -26,15 +26,11 @@ Welcome to the overview of Arise Technology.
 <p -Integration of Artificial Intelligence Technologies </p>
 <p -Real-Time Monitoring and Security Alerts </p>
 
+<h3 align="left">Contact Us:</h3> 
+<p> Email:** [fernando@arisetechnology.com.br](mailto:fernando@arisetechnology.com.br) </p>
+<p> Phone:** +55 27 999553448 </p>
+<p> Address:** Sao Paulo - Brazil  </p>
 
-
-For more information about our services or to request a consultation, please contact us:
-
-
-<h3 align="left">Contact Us:</h3>
-- **Email:** [fernando@arisetechnology.com.br](mailto:fernando@arisetechnology.com.br)
-- **Phone:** +55 27 999553448
-- **Address:** Sao Paulo - Brazil  
 <p align="left">  
 <a href="https://www.linkedin.com/company/arisetechnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandocalenzani" height="30" width="40" /></a>
 <a href="https://fb.com/fernandocalenzani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fernandocalenzani" height="30" width="40" /></a>
