@@ -20,11 +20,11 @@ Welcome to the overview of Arise Technology.
 <p align="right">Arise Technology specializes in providing advanced monitoring systems for crime prevention and detection. We employ a combination of technologies, including cameras, drones, and artificial intelligence to ensure the safety of our clients and communities.</p>
 
 <h2 align="center">Our Services</h2>
-**- Video Surveillance Systems**
-**- Drone Deployment for Aerial Surveillance**
-**- Data Analysis and Pattern Detection**
-**- Integration of Artificial Intelligence Technologies**
-**- Real-Time Monitoring and Security Alerts**
+<p -Video Surveillance Systems </p>
+<p -Drone Deployment for Aerial Surveillance </p>
+<p -Data Analysis and Pattern Detection </p>
+<p -Integration of Artificial Intelligence Technologies </p>
+<p -Real-Time Monitoring and Security Alerts </p>
 
 
 
