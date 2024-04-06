@@ -32,10 +32,10 @@ For more information about our services or to request a consultation, please con
 
 
 <h3 align="left">Contact Us:</h3>
-<p align="left">  
 - **Email:** [fernando@arisetechnology.com.br](mailto:fernando@arisetechnology.com.br)
 - **Phone:** +55 27 999553448
 - **Address:** Sao Paulo - Brazil  
+<p align="left">  
 <a href="https://www.linkedin.com/company/arisetechnology" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandocalenzani" height="30" width="40" /></a>
 <a href="https://fb.com/fernandocalenzani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fernandocalenzani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arise.technology/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandocalenzani" height="30" width="40" /></a>
