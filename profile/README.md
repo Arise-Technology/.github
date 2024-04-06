@@ -27,7 +27,7 @@ Welcome to the overview of Arise Technology.
 <p -Real-Time Monitoring and Security Alerts </p>
 
 <h3 align="left">Contact Us:</h3> 
-<p> Email: <a href="mailto:fernando@arisetechnology.com.br" target="blank"><img align="center" alt="fernando@arisetechnology.com.br" height="30" width="40" /></a></p>
+<p> Email: <a href="mailto:fernando@arisetechnology.com.br" target="blank"></a></p>
 <p> Phone: +55 27 999553448 </p>
 <p> Address: Sao Paulo - Brazil  </p>
 
