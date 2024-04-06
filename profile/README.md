@@ -14,10 +14,6 @@ Welcome to the overview of Arise Technology.
 - Integration of Artificial Intelligence Technologies
 - Real-Time Monitoring and Security Alerts
 
-## 
----
-
-&copy; 2024 Arise Technology. All rights reserved.
 
 
 <h1 align="center">Arise Technology</h1>
@@ -46,17 +42,8 @@ For more information about our services or to request a consultation, please con
 <a href="https://discord.gg/fernandocalenzani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fernandocalenzani" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arise-Technology&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arise-Technology&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arise-Technology&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+## 
 ---
-[![](https://visitcount.itsvg.in/api?id=fernandocalenzani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+&copy; 2024 Arise Technology. All rights reserved.
 
